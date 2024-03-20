@@ -1,0 +1,19 @@
+{
+    "categories": [
+     
+      
+      {
+        "name": "Women",
+        "subcategories": ["Dresses", "Tops", "Jeans", "Outwears", "Activewears", "Swimwear"]
+      },
+      {
+        "name": "Man",
+        "subcategories": ["T-Shirt", "Shirt", "Jeans", "Jacket", "Suits","Sweater"]
+      },
+      {
+        "name": "Baby",
+        "subcategories": ["Onesies", "Pajamas", "Footwear", "Socks", "Hats","Blanket"]
+      }
+    ]
+  }
+  
